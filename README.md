@@ -16,14 +16,3 @@ I like learning stacks by building with them. Most of my work is around full-sta
 - DevOps basics with Git, CI/CD, Docker, Kubernetes, AWS, and Ubuntu
 
 ---
-
-# GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=lakshay-goyal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=lakshay-goyal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=lakshay-goyal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## The vibe
-
-Brainstorm before building. Build for users, not just engineers.
